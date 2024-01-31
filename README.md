@@ -1,6 +1,6 @@
 # Webpack Template
 
-A template for projects that need Webpack
+A template for practice or simple projects
 
 ## About the Project
 
