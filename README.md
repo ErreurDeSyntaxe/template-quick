@@ -1,6 +1,6 @@
-# Webpack Template
+# Simple Template
 
-A template for practice or simple projects
+A template for practice or simple projects (without webpack or ESlint)
 
 ## About the Project
 
