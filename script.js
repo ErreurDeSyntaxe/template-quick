@@ -1,3 +1,5 @@
+'use strict';
+
 console.log('Hello, World!');
 const body = document.querySelector('body');
 const smallIcon = document.createElement('img');
