@@ -34,7 +34,6 @@ The goal of the project is to learn xyz by building abc.
 <img src='./README/html5-logo.svg' style='width:40px; height: 40px' >
 <img src='./README/css3-logo.svg' style='width:40px; height: 40px' >
 <img src='./README/javascript-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/webpack-logo.svg' style='width:40px; height: 40px' >
 
 ## To-Do
 
