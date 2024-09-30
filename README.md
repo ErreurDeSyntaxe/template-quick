@@ -22,7 +22,7 @@ The goal of the project is to learn xyz by building abc.
 
 <a href='http://theodinproject.com/'>The Odin Project</a> (Month Year)
 
-### Features
+### Notable Features
 
 - Add something
 - Edit something
@@ -39,11 +39,48 @@ The goal of the project is to learn xyz by building abc.
 
 - [x] Understand the objectives
 - [ ] Plan
-  - [ ] Logic
-  - [ ] UI
+  - [ ] User stories
+  - [ ] Features
+  - [ ] Flowchart
+  - [ ] Architecture
+  - [ ] UI Design
+  - [ ] Responsive Design
+- [ ] Development
+  - [ ] Basic HTML
+  - [ ] Console-Based Logic
+  - [ ] UI Features
+    - [ ] UI Sketch
+    - [ ] Overall Layout
+    - [ ] Individual Section Layout
+    - [ ] Menu
+  - [ ] Responsive Design
+    - [ ] Media Queries
+    - [ ] Mobile Menu
 - [ ] Fix bugs
-  - [ ] Wrong date
-  - [ ] Layout on resize
+  - [ ] No bugs yet!
+
+## User Stories
+
+- As a user, I want...
+
+## Features
+
+- Users can...
+
+## Flowchart
+
+Page Loads ->
+
+## Architecture
+
+class App () {  
+-constructor() {  
+--this.init();  
+-}  
+}  
+-init() {  
+--console.log('Hello, World!);  
+}
 
 ## Lessons & Difficulties
 
