@@ -56,6 +56,7 @@ The goal of the project is to learn xyz by building abc.
   - [ ] Responsive Design
     - [ ] Media Queries
     - [ ] Mobile Menu
+  - [ ] Check Accessibility
 - [ ] Fix bugs
   - [ ] No bugs yet!
 
