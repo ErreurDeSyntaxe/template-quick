@@ -33,7 +33,9 @@ The goal of the project is to learn xyz by building abc.
 <!-- <img src='./README/webpack-logo.svg' style='width:40px; height: 40px' > -->
 <!-- <img src='./README/parcel.ico' style='width:40px; height: 40px' > -->
 
-## To-Do
+## Development
+
+### To Do
 
 - [ ] Rewrite the README
   - [ ] Title
@@ -74,19 +76,19 @@ The goal of the project is to learn xyz by building abc.
   - [ ] No Bugs Yet!
 - [ ] Review README
 
-## User Stories
+### User Stories
 
 - As a user, I want...
 
-## Features
+### Features
 
 - Users can...
 
-## Flowchart
+### Flowchart
 
 Page Loads ->
 
-## Architecture
+### Architecture
 
 class App {  
 -constructor() {  
@@ -97,10 +99,12 @@ class App {
 --console.log('Hello, World!);  
 }
 
-## Lessons & Difficulties
+## Reflection
+
+### Lessons & Difficulties
 
 Some lessons learned along the way
 
-## Diary
+### Diary
 
 Some thoughts regarding the project
