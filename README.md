@@ -1,13 +1,13 @@
 # Simple Template
 
-A template for practice or simple projects (without webpack or ESlint)
+A template for projects that require Parcel
 
 ## About the Project
 
 ### Preview
 
 <div align='center'>
-    <img src='./README/project-preview.png'>
+    <img src='./project-preview.png'>
 </div>
 
 ### Live
@@ -18,10 +18,6 @@ A template for practice or simple projects (without webpack or ESlint)
 
 The goal of the project is to learn xyz by building abc.
 
-###### Project Statement
-
-<a href='http://theodinproject.com/'>The Odin Project</a> (Month Year)
-
 ### Notable Features
 
 - Add something
@@ -29,15 +25,23 @@ The goal of the project is to learn xyz by building abc.
 - Remove something
 - Allow users to complicate dev's job
 
-## Built With
+### Built With
 
-<img src='./README/html5-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/css3-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/javascript-logo.svg' style='width:40px; height: 40px' >
+<img src='./html5-logo.svg' style='width:40px; height: 40px' >
+<img src='./css3-logo.svg' style='width:40px; height: 40px' >
+<img src='./javascript-logo.svg' style='width:40px; height: 40px' >
+<!-- <img src='./webpack-logo.svg' style='width:40px; height: 40px' > -->
+<!-- <img src='./parcel.ico' style='width:40px; height: 40px' > -->
 
 ## To-Do
 
-- [x] Understand the objectives
+- [ ] Rewrite the README
+  - [ ] Title
+  - [ ] Live Page Link
+  - [ ] Objective
+  - [ ] Project Statement
+  - [ ] Notable Features
+  - [ ] Built With
 - [ ] Plan
   - [ ] User stories
   - [ ] Features
@@ -47,6 +51,15 @@ The goal of the project is to learn xyz by building abc.
   - [ ] Responsive Design
 - [ ] Development
   - [ ] Basic HTML
+    - [ ] Title
+    - [ ] Meta
+    - [ ] Rough Structure
+  - [ ] Parcel
+    - [ ] "npm init"
+    - [ ] Remove "main": "index.js"
+    - [ ] Rewrite "test" to "start": "parcel index.html"
+    - [ ] Add "build": "parcel build index.html"
+    - [ ] "npm i parcel -D"
   - [ ] Console-Based Logic
   - [ ] UI Features
     - [ ] UI Sketch
@@ -58,7 +71,8 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Mobile Menu
   - [ ] Check Accessibility
 - [ ] Fix bugs
-  - [ ] No bugs yet!
+  - [ ] No Bugs Yet!
+- [ ] Review README
 
 ## User Stories
 
@@ -74,7 +88,7 @@ Page Loads ->
 
 ## Architecture
 
-class App () {  
+class App {  
 -constructor() {  
 --this.init();  
 -}  
