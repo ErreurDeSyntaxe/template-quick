@@ -1,6 +1,6 @@
 # Simple Template
 
-A template for projects that require Parcel
+A template for projects that may require Parcel
 
 ## About the Project
 
