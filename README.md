@@ -7,7 +7,7 @@ A template for projects that require Parcel
 ### Preview
 
 <div align='center'>
-    <img src='./project-preview.png'>
+    <img src='./README/project-preview.png'>
 </div>
 
 ### Live
@@ -27,11 +27,11 @@ The goal of the project is to learn xyz by building abc.
 
 ### Built With
 
-<img src='./html5-logo.svg' style='width:40px; height: 40px' >
-<img src='./css3-logo.svg' style='width:40px; height: 40px' >
-<img src='./javascript-logo.svg' style='width:40px; height: 40px' >
-<!-- <img src='./webpack-logo.svg' style='width:40px; height: 40px' > -->
-<!-- <img src='./parcel.ico' style='width:40px; height: 40px' > -->
+<img src='./README/html5-logo.svg' style='width:40px; height: 40px' >
+<img src='./README/css3-logo.svg' style='width:40px; height: 40px' >
+<img src='./README/javascript-logo.svg' style='width:40px; height: 40px' >
+<!-- <img src='./README/webpack-logo.svg' style='width:40px; height: 40px' > -->
+<!-- <img src='./README/parcel.ico' style='width:40px; height: 40px' > -->
 
 ## To-Do
 
