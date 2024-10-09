@@ -1,5 +1,5 @@
 class View {
-  log(message) {
+  renderMessage(message) {
     console.log(message);
   }
 }

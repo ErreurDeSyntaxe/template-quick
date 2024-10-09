@@ -4,7 +4,7 @@ class Person {
     this.lastName = lastName;
   }
   greet() {
-    return `Hello. My name is ${this.firstName} ${this.lastName}`;
+    return `Hello. My name is ${this.firstName} ${this.lastName}.`;
   }
 }
 
