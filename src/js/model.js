@@ -4,8 +4,9 @@ class Person {
     this.lastName = lastName;
   }
   greet() {
-    console.log(`Hello. My name is ${this.firstName} ${this.lastName}`);
+    return `Hello. My name is ${this.firstName} ${this.lastName}`;
   }
 }
 
 export const john = new Person('John', 'Doe');
+export const jane = new Person('Jane', 'Doe');
